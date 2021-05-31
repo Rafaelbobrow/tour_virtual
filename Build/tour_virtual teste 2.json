@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "tour virtual teste",
+"dataUrl": "tour_virtual teste 2.data.unityweb",
+"wasmCodeUrl": "tour_virtual teste 2.wasm.code.unityweb",
+"wasmFrameworkUrl": "tour_virtual teste 2.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
